@@ -9,7 +9,7 @@ const projectsData = {
     client: "Studio GameDev",
     gallery: [
       "renderd6.png",
-      "https://placehold.co/600x400?text=Widok+2",
+      "renderd10.png",
       "https://placehold.co/600x400?text=Widok+3"
     ]
   },
