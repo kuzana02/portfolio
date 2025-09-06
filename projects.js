@@ -8,7 +8,7 @@ const projectsData = {
     tools: "Blender, Substance Painter, ZBrush",
     client: "Studio GameDev",
     gallery: [
-      "render6.png",
+      "renderd6.png",
       "https://placehold.co/600x400?text=Widok+2",
       "https://placehold.co/600x400?text=Widok+3"
     ]
