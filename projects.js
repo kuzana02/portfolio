@@ -65,7 +65,11 @@ const projectsData = {
   }
 };
 
+// Załóżmy że chcesz otworzyć projekt 1
+const project = projectsData["1"];
+
 const galleryContainer = document.getElementById("gallery");
+
 if (galleryContainer && project.gallery && project.gallery.length > 0) {
     galleryContainer.innerHTML = project.gallery.map(img =>
         `<img src="${img}" alt="${project.title}">`
@@ -91,4 +95,3 @@ if (galleryContainer && project.gallery && project.gallery.length > 0) {
         updateCarousel();
     });
 }
-
