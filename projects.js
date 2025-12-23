@@ -3,8 +3,8 @@ const projectsData = {
   "1": {
     title: "Interaktywny Globus 3D",
     image: "https://placehold.co/800x500", // Pamiętaj, żeby tu wstawić screena swojego globusa!
-    description: "Interaktywna aplikacja 3D stworzona w technologii webowej. Projekt wykorzystuje bibliotekę Three.js do renderowania kuli ziemskiej w czasie rzeczywistym. Główną funkcjonalnością jest możliwość kliknięcia w dowolne miejsce na globusie, aby odczytać i wyświetlić dokładne współrzędne geograficzne wybranego punktu.",
-    category: "Three.js / Wizualizacja",
+    description: "Interaktywna aplikacja 3D stworzona w technologii webowej. Projekt wykorzystuje bibliotekę Three.js do renderowania kuli ziemskiej w czasie rzeczywistym. Główną funkcjonalnością jest możliwość kliknięcia w oznaczone miejsce na globusie, aby odczytać i wyświetlić dokładne współrzędne geograficzne wybranego punktu.",
+    category: "Three.js / Globus",
     date: "2025",
     tools: "Three.js, JavaScript, HTML5",
     client: "Projekt własny",
