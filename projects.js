@@ -1,17 +1,17 @@
 const projectsData = {
+  const projectsData = {
   "1": {
-    title: "Model postaci",
-    image: "https://placehold.co/800x500",
-    description: "Pełny model 3D fantasyjnej postaci...",
-    category: "Modelowanie",
-    date: "Czerwiec 2023",
-    tools: "Blender, Substance Painter, ZBrush",
-    client: "Studio GameDev",
+    title: "Interaktywny Globus 3D",
+    image: "https://placehold.co/800x500", // Pamiętaj, żeby tu wstawić screena swojego globusa!
+    description: "Interaktywna aplikacja 3D stworzona w technologii webowej. Projekt wykorzystuje bibliotekę Three.js do renderowania kuli ziemskiej w czasie rzeczywistym. Główną funkcjonalnością jest możliwość kliknięcia w dowolne miejsce na globusie, aby odczytać i wyświetlić dokładne współrzędne geograficzne wybranego punktu.",
+    category: "Three.js / Wizualizacja",
+    date: "2025",
+    tools: "Three.js, JavaScript, HTML5",
+    client: "Projekt własny",
     demoUrl: "https://6949d81b37c470ee3de569d6--storied-belekoy-7610eb.netlify.app/",
     gallery: [
-      "renderd6.png",
-      "renderd10.png",
-      "https://placehold.co/600x400?text=Widok+3"
+      "renderd6.png", // Tu też warto wrzucić dodatkowe screeny globusa
+      "renderd10.png"
     ]
   },
   "2": {
