@@ -7,6 +7,7 @@ const projectsData = {
     date: "Czerwiec 2023",
     tools: "Blender, Substance Painter, ZBrush",
     client: "Studio GameDev",
+    demoUrl: "https://6949d81b37c470ee3de569d6--storied-belekoy-7610eb.netlify.app/",
     gallery: [
       "renderd6.png",
       "renderd10.png",
